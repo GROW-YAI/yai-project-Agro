@@ -115,7 +115,7 @@ const Navbar = () => {
           <a 
             href="#showcase" 
             onClick={() => handleLinkClick('showcase')}
-            className={`block px-4 py-2 ${activeSection === 'about-innovator' ? 'text-[#D98D31]' : 'text-gray-800'} hover:text-[#D98D31]`}
+            className={`block px-4 py-2 ${activeSection === 'showcase' ? 'text-[#D98D31]' : 'text-gray-800'} hover:text-[#D98D31]`}
           >
             Product
           </a>
