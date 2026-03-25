@@ -1,4 +1,4 @@
-# YAI Project - Hybrid Oven Innovation Website
+# YHybrid Oven Innovation Website
 
 ## Project Overview
 
