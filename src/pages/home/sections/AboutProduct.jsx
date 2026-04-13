@@ -48,7 +48,7 @@ const AboutProduct = () => {
 
   return (
     <section id="about-product" className="relative bg-[#f8f5f0] text-gray-800 font-serif py-20">
-      <div className="flex flex-col lg:flex-row items-center">
+      <div className="text-left flex flex-col lg:flex-row items-center">
         {/* Image Section */}
         <div className="w-full lg:w-1/2">
           <img
