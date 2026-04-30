@@ -23,7 +23,7 @@ const AboutInnovator = () => {
     return (
         <section id="about-innovator" className="py-20 bg-[#f8f5f0] text-gray-900 font-serif">
             <motion.div 
-                className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center gap-10"
+                className="text-left max-w-7xl mx-auto px-4 flex flex-col md:flex-row items-center gap-10"
                 variants={containerVariants}
                 initial="hidden"
                 whileInView="visible"
